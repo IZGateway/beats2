@@ -57,7 +57,7 @@ require (
 	github.com/dop251/goja_nodejs v0.0.0-20171011081505-adff31b136e6
 	github.com/dustin/go-humanize v1.0.1
 	github.com/eapache/go-resiliency v1.7.0
-	github.com/eclipse/paho.mqtt.golang v1.3.5
+	github.com/eclipse/paho.mqtt.golang v1.5.1
 	github.com/elastic/elastic-agent-client/v7 v7.15.0
 	github.com/elastic/go-concert v0.3.0
 	github.com/elastic/go-libaudit/v2 v2.6.1
@@ -125,15 +125,15 @@ require (
 	go.etcd.io/bbolt v1.3.10
 	go.uber.org/multierr v1.11.0
 	go.uber.org/zap v1.27.0
-	golang.org/x/crypto v0.33.0
-	golang.org/x/mod v0.21.0
-	golang.org/x/net v0.35.0
+	golang.org/x/crypto v0.42.0
+	golang.org/x/mod v0.27.0
+	golang.org/x/net v0.44.0
 	golang.org/x/oauth2 v0.24.0
-	golang.org/x/sync v0.11.0
-	golang.org/x/sys v0.30.0
-	golang.org/x/text v0.22.0
+	golang.org/x/sync v0.17.0
+	golang.org/x/sys v0.36.0
+	golang.org/x/text v0.29.0
 	golang.org/x/time v0.8.0
-	golang.org/x/tools v0.25.0
+	golang.org/x/tools v0.36.0
 	google.golang.org/api v0.214.0
 	google.golang.org/genproto v0.0.0-20241118233622-e639e219e697 // indirect
 	google.golang.org/grpc v1.67.3
@@ -194,7 +194,7 @@ require (
 	github.com/googleapis/gax-go/v2 v2.14.0
 	github.com/gorilla/handlers v1.5.1
 	github.com/gorilla/mux v1.8.0
-	github.com/gorilla/websocket v1.5.0
+	github.com/gorilla/websocket v1.5.3
 	github.com/hashicorp/golang-lru/v2 v2.0.7
 	github.com/icholy/digest v0.1.22
 	github.com/jcmturner/gokrb5/v8 v8.4.4
@@ -227,7 +227,7 @@ require (
 	go.opentelemetry.io/collector/pdata v1.20.0
 	go.opentelemetry.io/collector/receiver v0.114.0
 	go.uber.org/mock v0.5.0
-	golang.org/x/term v0.29.0
+	golang.org/x/term v0.35.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20241118233622-e639e219e697
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	gopkg.in/yaml.v3 v3.0.1
